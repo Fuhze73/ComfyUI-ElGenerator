@@ -16,7 +16,7 @@ Cherchez `ElGenerator` dans le ComfyUI Manager et installez.
 ### Option 2 — Manuel
 ```bash
 cd ComfyUI/custom_nodes/
-git clone https://github.com/VOTRE_REPO/ComfyUI-ElGenerator.git
+git clone https://github.com/Fuhze73/ComfyUI-ElGenerator.git
 # ou copiez simplement le dossier ComfyUI-ElGenerator dans custom_nodes/
 ```
 
