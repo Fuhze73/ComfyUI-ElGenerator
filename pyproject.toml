@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-elgenerator"
+description = "El Generator v1 — Wildcard character prompt generator for Anima and similar models. Generates detailed character, outfit, pose, and scene prompts."
+version = "1.0.0"
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/VOTRE_REPO/ComfyUI-ElGenerator"
+
+[tool.comfy]
+PublisherId = "elrandolo"
+DisplayName = "El Generator"
+Icon = "🎲"
